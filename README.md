@@ -75,13 +75,39 @@ Student Placement Prediction
 │
 ├── dataset
 │   └── student_placement.csv
-│
+├── images
+│   ├── about project.png
+│   ├── confusion_matrix.png
+│   ├── feature_importance.png
+│   ├── model_accuracy.png
+│   ├── streamlit_output.png
+│   └── student_prediction with model_analysis.png
 └── model
     ├── placement_model.pkl
     ├── branch_encoder.pkl
     ├── tier_encoder.pkl
     ├── confusion_matrix.png
     └── feature_importance.png
+
+## Project Screenshots
+
+### About Project
+![About Project](images/about project.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
+
+### Model Accuracy
+![Model Accuracy](images/model_accuracy.png)
+
+### Streamlit Output
+![Streamlit Output](images/streamlit_output.png)
+
+### Student Prediction with Model Analysis
+![Student Prediction](images/student_prediction with model_analysis.png)
 
 # 🚀 How to Run the Project
 
